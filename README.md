@@ -5,6 +5,11 @@
         src="http://img.shields.io/badge/-@ddo9on-gray?style=for-the-badge&logo=Instagram&link=https://instagram.com/ddo9on/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://fb.com/ddo9on">
+    <img
+        src="http://img.shields.io/badge/-@ddo9on-white?style=for-the-badge&logo=Facebook&link=https://fb.com/ddo9on/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 # DogonYu
 
