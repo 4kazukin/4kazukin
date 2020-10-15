@@ -8,7 +8,7 @@
 <a href="https://fb.com/ddo9on">
     <img
         src="http://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=Facebook&link=https://fb.com/ddo9on/"
-        style="height : auto; margin-left : 10px; margin-right : 10px; border: 1px solid black;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px; bacgkround: black;"/>
 </a>
 
 # DogonYu
