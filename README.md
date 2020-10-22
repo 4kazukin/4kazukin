@@ -4,7 +4,7 @@
 👨🏻‍💻 I'm noob frontend developer**<br><br>
 ![DogonYu's github stats](https://github-readme-stats.vercel.app/api?username=DogonYu&show_icons=true&theme=vue)
 
-# Stack
+🛠 # Stack
 * React.js
 * Node.js
 * React-Native
