@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/followers/DogonYu?style=social)<br>
+![](https://img.shields.io/github/followers/DogonYu?style=social)
 <a href="https://instagram.com/ddo9on">
     <img
         src="http://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=Instagram&link=https://instagram.com/ddo9on/"
