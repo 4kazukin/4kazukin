@@ -9,3 +9,5 @@
 * React.js
 * Node.js
 * React-Native
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=be4bdb)
