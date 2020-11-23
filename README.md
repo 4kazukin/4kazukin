@@ -9,5 +9,3 @@
 * React.js
 * Node.js
 * React-Native
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=be4bdb)
