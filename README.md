@@ -6,6 +6,6 @@
 ![DogonYu's github stats](https://github-readme-stats.vercel.app/api?username=DogonYu&show_icons=true&theme=vue)
 
 # 🛠 Stack
+* HTML5 / CSS3
+* Javascript
 * React.js
-* Node.js
-* React-Native
