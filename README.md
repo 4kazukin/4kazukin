@@ -1,3 +1,3 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Hi!%20I'm%20Frontend%20Developer-%23444444?style=for-the-badge&logo=internetexplorer&logoColor=%230076D6"><br/>
 <a href="https://chach4.tistory.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=tistory&logoColor=white"></a> <a href="mailto:dogon.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/dogon.dev%40gmail.com-%23f2584b?style=flat-square&logo=gmail&logoColor=white"></a><br/>
-![DogonYu's github stats](https://github-readme-stats.vercel.app/api?username=DogonYu&show_icons=true&theme=vue)
+![DogonYu's github stats](https://github-readme-stats.vercel.app/api?username=4kazukin&show_icons=true&theme=vue)
